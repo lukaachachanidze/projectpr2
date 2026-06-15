@@ -11,7 +11,7 @@ The symbols mean:
 F  flagged cell
 .  empty revealed cell
 1-8 number of mines around the cell
-*  mine
+"*"  mine
 
 You win when all cells without mines are revealed.
 You lose if you reveal a mine.
