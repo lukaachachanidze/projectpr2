@@ -7,7 +7,7 @@ How to play:
 Left click reveals a cell.
 Right click places or removes a flag.
 The symbols mean:
-#  hidden cell
+"#"  hidden cell
 F  flagged cell
 .  empty revealed cell
 1-8 number of mines around the cell
